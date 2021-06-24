@@ -4,7 +4,7 @@
 
 - 😄 My name is JohnTian.
 - 🔭 I’m currently working on EPBox AI department.
-- 🌱 I’m currently learning how to deploy different deep learning model by golang gin web framework in production environment.
+- 🌱 I’m currently learning how to enjoy life and work.
 - 📫 How to reach me: [tianzhaixing@126.com](tianzhaixing@126.com)
 - ⚡ Fun fact: mobile games, animations, movies and hiking.
 
